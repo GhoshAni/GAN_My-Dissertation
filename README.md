@@ -4,13 +4,13 @@ Currently I have uploaded my Dissertation in the repository. Please note that al
 
 
 
+
 My Dissertation (Image To Image Translation):
 
 Satellite Imagery is a very valuable dataset for various domains like Agriculture, Natural Dis- aster Management, construction, Oil & Gas Sector. The accurate, real time images help to monitor and understand the real time changes occurring day to day or month to month ba- sis on earth like Disaster Management. Satellite images have been successfully used to diagnose Thunderstorms Tournedos[3].
 
 
 The images help monitor the real-time progress of construction in housing or the images can provide a key benefit to the Infrastructure Sector. Large areas of land captured in one image give the user up-to-date views of lands ranging across several kilometres. The images capture roads, bridges, malls, railway tracks and other active construction sites on a periodical basis frequently by satellites.
-
 
 
 
